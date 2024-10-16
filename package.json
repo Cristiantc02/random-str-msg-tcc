@@ -1,0 +1,20 @@
+{
+  "name": "random-str-msg-tcc",
+  "version": "1.0.0",
+  "description": "Random String Messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Cristian Tirado Cifuentes <cristiancifuentes80@gmail.com>",
+  "license": "MIT",
+  "homepage": "https://github.com/Cristiantc02/random-str-msg-tcc#readme",
+  "bin": {
+    "random-str-msg-tcc": "./bin/global.js"
+  },
+  "dependencies": {
+    "g": "^2.0.1"
+  },
+  "preferGlobal": true
+}
